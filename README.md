@@ -26,29 +26,28 @@
 
 <hr>
  
-### Linguagens de Domínio:
+### Linguagens:
 ![React.js](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 
-### Tools:
+### Ferramentas:
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)&nbsp;
 
-### AI Tools & Assistants:
+###  Ferramentas de IA:
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2&labelColor=0D1117)&nbsp;
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=74AA9C&labelColor=0D1117)&nbsp;
 ![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=0D1117)&nbsp;
 
  
 
-### Academic Background:
+
+###  Formação Acadêmica:
 
 **Universidade Cidade de São Paulo (Unicid)** Bacharelado em Engenharia de Software · *(em andamento)*
 
-### Studying in this moment:
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0D1117)&nbsp;
+### Certificados:
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
