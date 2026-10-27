@@ -35,11 +35,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=vscode&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
+
 ### AI Tools & Assistants:
-![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-0D1117?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=0D1117)&nbsp;
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2&labelColor=0D1117)&nbsp;
-![Perplexity AI](https://img.shields.io/badge/Perplexity-0D1117?style=for-the-badge&logo=perplexity&logoColor=white&labelColor=0D1117)&nbsp;
-![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=white&labelColor=0D1117)&nbsp;
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=74AA9C&labelColor=0D1117)&nbsp;
+![Claude](https://img.shields.io/badge/Claude-0D1117?style=for-the-badge&logo=claude&logoColor=D97757&labelColor=0D1117)&nbsp;
+
  
 ### Other Knowledge:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
