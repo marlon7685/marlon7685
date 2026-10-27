@@ -49,6 +49,10 @@
 
 ### Certificados:
 
+- Linguagem de Programação Python - Básico — Fundação Bradesco
+- Introdução à Análise de Dados — Microsoft Power BI — Fundação Bradesco
+- Soluções de IA no GitHub — Fundação Bradesco
+
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
